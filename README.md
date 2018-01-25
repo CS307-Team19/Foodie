@@ -1,2 +1,1 @@
-# Foodie
-CS307 Team19 group project
+# cs307-Team19
